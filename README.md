@@ -1,0 +1,2 @@
+# App-Inventor-Project-Math-for-Early-Childhood-Education-
+Idea developed by me and Jhullya Soares Martins, a student of Computer Engineering. We have been developing the entire project for three months during the "Girls Programming" extension, taught by Luciana Montera Cheung, at UFMS. With the support of MIT's App Inventor tool, it consists of an application full of educational games, which aims to make math learning much more fun. More details you can read in the README file
