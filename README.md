@@ -3,4 +3,4 @@ Idea developed by me and Jhullya Soares Martins, a student of Computer Engineeri
 
 
 ![Início](https://user-images.githubusercontent.com/73763043/140856669-72664fec-ff64-4e9a-8d4b-039359edb816.png)
-![Página inicial](https://user-images.githubusercontent.com/73763043/140857031-7710b614-676c-4e69-8466-d7af1fed4049.png)
+![Página inicial (1)](https://user-images.githubusercontent.com/73763043/140857320-cb6998cd-480c-4915-ae26-e768afd8b793.png)
