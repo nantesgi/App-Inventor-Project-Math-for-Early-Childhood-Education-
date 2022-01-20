@@ -6,7 +6,7 @@ Idea developed by me and Jhullya Soares Martins, a student of Computer Engineeri
 
 We are working in some features, but we hope that soon we will be able to develop it in a less limited tool, since the App Inventor may have some bugs depending on the device using the app's .apk.
 
-How do I open the AIA file?
+<h3>How do I open the AIA file?</h3>
 
 You can open AIA files in MIT App Inventor (Web). To do so, select Projects → Import project from my computer.... Then, when the Import Project... window appears, browse to and open your .AIA file.
 
